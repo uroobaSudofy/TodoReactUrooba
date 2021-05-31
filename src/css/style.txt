@@ -1,0 +1,10 @@
+body{
+    padding-top:   
+}
+.header {
+    display: inline-block;
+    margin: 0 15px;
+    width: 200px;
+    height: 200px;
+    background-color: brown;
+}
